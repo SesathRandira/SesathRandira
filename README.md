@@ -1,3 +1,11 @@
+<div align="center" style="
+  border: 4px solid #0ff;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 0 15px #0ff, 0 0 30px #0ff, 0 0 45px #0ff;
+">
+
+
 ## Hi there 👋
 
 # 💫 About Me:
