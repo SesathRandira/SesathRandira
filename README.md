@@ -1,4 +1,5 @@
-![Neon Border](https://raw.githubusercontent.com/your-username/your-repo/main/neon-border.svg)
+![Neon Border](https://raw.githubusercontent.com/your-username/your-repo/main/neon-border.gif)
+
 
 
 ## Hi there 👋
