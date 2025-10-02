@@ -1,6 +1,8 @@
 
 
-
+<p align="center"> 
+  <a href="https://discord.com/users/833972562210979891"> 
+    <img src="https://lanyard-profile-readme.vercel.app/api/833972562210979891?theme=dark&bg=1E1E1E&borderRadius=15px&hideDiscrim=true&idleMessage=Probably%20coding%20or%20lost%20in%20music..." /> </a> </p>
 
 
 
