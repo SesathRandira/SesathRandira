@@ -1,9 +1,4 @@
-
-
-<p align="center"> 
-  <a href="https://discord.com/users/958606944288014346"> 
-    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/958606944288014346)](https://discord.com/users/958606944288014346)" /> </a> </p>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/958606944288014346)](https://discord.com/users/958606944288014346)
 
 
 ## Hi there 👋
